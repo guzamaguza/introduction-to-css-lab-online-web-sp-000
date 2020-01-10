@@ -16,12 +16,13 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  /* Your code here! */
+  /* id type in .html file*/
   color:red;
   font-size:22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  /* Your code here! */
+  /* class type in .html file*/
+  
 }
